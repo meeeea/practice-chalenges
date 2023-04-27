@@ -1,0 +1,15 @@
+C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.csproj.AssemblyReference.cache
+C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.AssemblyInfoInputs.cache
+C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.AssemblyInfo.cs
+C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.csproj.CoreCompileInputs.cache
+C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\bin\Debug\net7.0\Jacob's chalange.exe
+C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\bin\Debug\net7.0\Jacob's chalange.deps.json
+C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\bin\Debug\net7.0\Jacob's chalange.runtimeconfig.json
+C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\bin\Debug\net7.0\Jacob's chalange.dll
+C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\bin\Debug\net7.0\Jacob's chalange.pdb
+C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.dll
+C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\obj\Debug\net7.0\refint\Jacob's chalange.dll
+C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.pdb
+C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.genruntimeconfig.cache
+C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\obj\Debug\net7.0\ref\Jacob's chalange.dll
