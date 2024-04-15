@@ -13,3 +13,18 @@ C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\obj\De
 C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.pdb
 C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.genruntimeconfig.cache
 C:\Users\Kids\Documents\Blender and Unity\Justin's stuff\Jacob's chalange\obj\Debug\net7.0\ref\Jacob's chalange.dll
+C:\Users\justi\OneDrive\Documents\practice-chalenges\Jacob's chalange\bin\Debug\net7.0\Jacob's chalange.exe
+C:\Users\justi\OneDrive\Documents\practice-chalenges\Jacob's chalange\bin\Debug\net7.0\Jacob's chalange.deps.json
+C:\Users\justi\OneDrive\Documents\practice-chalenges\Jacob's chalange\bin\Debug\net7.0\Jacob's chalange.runtimeconfig.json
+C:\Users\justi\OneDrive\Documents\practice-chalenges\Jacob's chalange\bin\Debug\net7.0\Jacob's chalange.dll
+C:\Users\justi\OneDrive\Documents\practice-chalenges\Jacob's chalange\bin\Debug\net7.0\Jacob's chalange.pdb
+C:\Users\justi\OneDrive\Documents\practice-chalenges\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\OneDrive\Documents\practice-chalenges\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive\Documents\practice-chalenges\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.AssemblyInfo.cs
+C:\Users\justi\OneDrive\Documents\practice-chalenges\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Documents\practice-chalenges\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.sourcelink.json
+C:\Users\justi\OneDrive\Documents\practice-chalenges\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.dll
+C:\Users\justi\OneDrive\Documents\practice-chalenges\Jacob's chalange\obj\Debug\net7.0\refint\Jacob's chalange.dll
+C:\Users\justi\OneDrive\Documents\practice-chalenges\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.pdb
+C:\Users\justi\OneDrive\Documents\practice-chalenges\Jacob's chalange\obj\Debug\net7.0\Jacob's chalange.genruntimeconfig.cache
+C:\Users\justi\OneDrive\Documents\practice-chalenges\Jacob's chalange\obj\Debug\net7.0\ref\Jacob's chalange.dll
