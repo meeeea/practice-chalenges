@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mTj3NJtw68sc+uo2U+RbVYp21byw5AQ+bY7OmxeTiPPxMcM1Tu+ytgtl0VUSpciV6DmSOSO9UtAetTwPZMfWyw==",
+  "dgSpecHash": "IFMHHGKqsacvrzsDGMFhh4Yq2xjIpB1yckZwNdwl0iS+NBonSvhzVYcm1L/cF2+Cn/huumY7tlRnQ4a+YMkSHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kids\\Documents\\Blender and Unity\\Justin's stuff\\Jacob's chalange\\Jacob's chalange.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\justi\\OneDrive\\Documents\\practice-chalenges\\Jacob's chalange\\Jacob's chalange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

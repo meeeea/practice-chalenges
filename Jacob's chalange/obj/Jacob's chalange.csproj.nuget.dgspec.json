@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kids\\Documents\\Blender and Unity\\Justin's stuff\\Jacob's chalange\\Jacob's chalange.csproj": {}
+    "C:\\Users\\justi\\OneDrive\\Documents\\practice-chalenges\\Jacob's chalange\\Jacob's chalange.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kids\\Documents\\Blender and Unity\\Justin's stuff\\Jacob's chalange\\Jacob's chalange.csproj": {
+    "C:\\Users\\justi\\OneDrive\\Documents\\practice-chalenges\\Jacob's chalange\\Jacob's chalange.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kids\\Documents\\Blender and Unity\\Justin's stuff\\Jacob's chalange\\Jacob's chalange.csproj",
+        "projectUniqueName": "C:\\Users\\justi\\OneDrive\\Documents\\practice-chalenges\\Jacob's chalange\\Jacob's chalange.csproj",
         "projectName": "Jacob's chalange",
-        "projectPath": "C:\\Users\\Kids\\Documents\\Blender and Unity\\Justin's stuff\\Jacob's chalange\\Jacob's chalange.csproj",
-        "packagesPath": "C:\\Users\\Kids\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kids\\Documents\\Blender and Unity\\Justin's stuff\\Jacob's chalange\\obj\\",
+        "projectPath": "C:\\Users\\justi\\OneDrive\\Documents\\practice-chalenges\\Jacob's chalange\\Jacob's chalange.csproj",
+        "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\justi\\OneDrive\\Documents\\practice-chalenges\\Jacob's chalange\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kids\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -48,12 +53,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.16, 7.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
